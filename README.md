@@ -15,4 +15,4 @@ This repository contains a comprehensive Jupyter Notebook designed to teach Pyth
 ## **How to Use**
 1. Clone or download the repository:  
    ```bash
-   git clone https://github.com/<Hartyplaza>/Python-Beginners-Tutorial.git
+   git clone https://github.com/Hartyplaza/Python-Beginners-Tutorial.git
