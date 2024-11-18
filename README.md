@@ -16,3 +16,7 @@ This repository contains a comprehensive Jupyter Notebook designed to teach Pyth
 1. Clone or download the repository:  
    ```bash
    git clone https://github.com/Hartyplaza/Python-Beginners-Tutorial.git
+
+## **Author**
+
+This notebook was created by Ofigwe Hart as part of my portfolio to demonstrate my teaching and programming skills.
